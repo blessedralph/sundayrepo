@@ -1,0 +1,5 @@
+#!/bin/bash
+# this code add and commit to main branch
+git add .
+git commit -m "updated file"
+git push origin main
